@@ -7,7 +7,7 @@ interface Props {
 
 const Home = (props: Props) => {
   return (
-    <View>
+    <View testID='home'>
       <Text>HOME</Text>
     </View>
   )
